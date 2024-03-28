@@ -202,9 +202,12 @@ body{
 @media (max-width: 910px){
     .box{
         width: 350px;
-        height: 500px;
+        height: 580px;
     }
     .box form .btn{
         height: 200px;
+    }
+    .box form .input-group i{
+        width: 90%;
     }
 }

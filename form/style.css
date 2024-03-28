@@ -219,4 +219,7 @@ body{
     .box form .btn{
         height: 200px;
     }
+    .box form .input-group i{
+        width: 90%;
+    }
 }
